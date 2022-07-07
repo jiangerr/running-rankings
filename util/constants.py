@@ -1,0 +1,2 @@
+BRIEF_RACE_LIST='https://c03mmwsf5i.execute-api.us-east-2.amazonaws.com/production/api_ranking/race_breif/'
+RACE_INSTANCE='https://c03mmwsf5i.execute-api.us-east-2.amazonaws.com/production/api_ranking/race/'
